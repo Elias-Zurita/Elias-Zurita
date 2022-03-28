@@ -1,8 +1,8 @@
-<img src='https://media0.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif?cid=790b7611351e775983eb0067b86661a01aa4b7cae0e86c27&rid=giphy.gif&ct=g' width="50"/> 
+<img src='https://media0.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif?cid=790b7611351e775983eb0067b86661a01aa4b7cae0e86c27&rid=giphy.gif&ct=g' width="90"/> 
 
 ### Hi there, I'm Elias
 
-📝 ***Feel free to contact me. I am always here ...*** <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611acb7bae0e84dbf3769a74a4289e081d19d760cc9&rid=giphy.gif&ct=g" width="70"/>
+***Feel free to contact me. I am always here ...*** <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611acb7bae0e84dbf3769a74a4289e081d19d760cc9&rid=giphy.gif&ct=g" width="100"/>
 <br>
 <br>
 [![Linkedin](https://img.shields.io/badge/Elias%20Zurita-blue?logo=Linkedin&logoColor=white&labelColor=blue)](https://www.linkedin.com/in/elias-zurita/)
@@ -10,7 +10,7 @@
 [![Mail](https://img.shields.io/badge/eliass.zurita@gmail.com-red?logo=gmail&logoColor=red&labelColor=white)](mailto:eliass.zurita@gmail.com)
 <br>
 
-## Languages && Tools:
+## Languages && Tools :hammer_and_wrench:
 <div class = 'lenguages'> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
 <img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white' alt='' />
