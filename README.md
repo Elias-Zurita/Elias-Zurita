@@ -16,6 +16,6 @@
 <img src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white' alt='' />
 <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' alt='' />
 <img src='https://img.shields.io/badge/Express.js-404D59?style=for-the-badge' alt='' />
-<img src='https://img.shields.io/badge/PhpMyAdmin-orange?style=for-the-badge&logo=mysql&logoColor=white' alt='' />
+<img src='https://img.shields.io/badge/PhpMyAdmin-orange?style=for-the-badge&logo=PhpMyAdmin&logoColor=white' alt='' />
 <img src='https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white' alt='' />
 <img src='https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white' alt='' />
