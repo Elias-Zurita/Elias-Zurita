@@ -1,4 +1,4 @@
-## Hi there, I'm Elias 👋👋👋
+## Hi there, I'm Elias :man_technologist:
 
 📝 ***Feel free to contact me. I am always here ...*** 
 <br>
