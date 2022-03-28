@@ -1,4 +1,6 @@
-## Hi there, I'm Elias :man_technologist:
+## Hi there, I'm Elias 
+<br>
+<img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611acb7bae0e84dbf3769a74a4289e081d19d760cc9&rid=giphy.gif&ct=g"/>
 
 📝 ***Feel free to contact me. I am always here ...*** 
 <br>
