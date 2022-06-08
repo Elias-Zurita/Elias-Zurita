@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Elias
 
-***Feel free to contact me. I am always here ...*** :man_technologist:
+ :man_technologist:
 <br>
 <br>
 [![Linkedin](https://img.shields.io/badge/Elias%20Zurita-blue?logo=Linkedin&logoColor=white&labelColor=blue)](https://www.linkedin.com/in/elias-zurita/)
