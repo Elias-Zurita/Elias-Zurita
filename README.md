@@ -1,4 +1,4 @@
-<h1 align="center"><img src='https://i.pinimg.com/originals/72/f5/d8/72f5d83a6fcb756a1d0a5d296eeca0d5.gif' width="35" height="35"> Hi there, I'm Elias, I am a Web Developer 🚀 </h1>
+<h1 align="center"><img src='https://i.pinimg.com/originals/72/f5/d8/72f5d83a6fcb756a1d0a5d296eeca0d5.gif' width="35" height="35"> Hello, my name is Elias and I am a Web Developer 🚀 </h1>
 
 <img align="right" src="https://user-images.githubusercontent.com/86257706/194675410-30b33fe3-446e-42c9-a313-8ed1ffb9d0ce.gif" width="300" height="300">
 
