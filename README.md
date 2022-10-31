@@ -50,7 +50,7 @@
 	</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/elias-zurita"> 
-		<img title="Linkedin" alt="Linkedin" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="35" height="30"/>
+		<img title="Linkedin" alt="Linkedin" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" target="_blank" width="35" height="30"/>
 	</a>
 
 ![Elias-Zurita's GitHub stats](https://github-readme-stats.vercel.app/api?username=elias-zurita&show_icons=true&theme=cobalt)
