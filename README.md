@@ -29,11 +29,11 @@
 <a href="https://code.visualstudio.com/"> 
 	<img title="Visual Studio Code" alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="40" height="40" />
 </a>
-<a href="https://www.phpmyadmin.net/"> 
-	<img title="PhpMyAdmin" alt="Phpmyadmin" src="https://user-images.githubusercontent.com/37474/96790597-72317780-13cd-11eb-9b33-fc6c6af6bcf0.png" width="40" height="40" />
+<a href="https://tableplus.com/"> 
+	<img title="Tableplus" alt="Tableplus" src="https://user-images.githubusercontent.com/806104/89695024-34e24100-d8d8-11ea-9d89-8a4f190164d7.png" width="40" height="40" />
 </a>
 <a href="https://expressjs.com/"> 
-	<img title="Express Js" alt="Express Js" src="https://spng.pngfind.com/pngs/s/136-1363736_express-js-icon-png-transparent-png.png" width="40" height="40" />
+	<img title="Express Js" alt="Express Js" src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" width="40" height="40" />
 </a>
 <a href="https://getbootstrap.com/">
 	<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="48" height="40" />
@@ -45,7 +45,7 @@
 
 &nbsp;&nbsp;
   <a href="mailto:eliass.zurita@gmail.com"> 
-		<img title="Gmail" alt="Gmail" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width="40" height="30"/>
+		<img title="Gmail" alt="Gmail" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width="38" height="28"/>
 	</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/elias-zurita" target="_blank"> 
