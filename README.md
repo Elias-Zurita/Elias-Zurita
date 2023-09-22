@@ -52,4 +52,7 @@
 		<img title="Linkedin" alt="Linkedin" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="35" height="30"/>
 	</a>
 
+## My Portfolio :computer: 
+  <a href="https://elias-zurita.github.io/" target="_blank">PORTFOLIO WEB :globe_with_meridians:</a>
+  
 ![Elias-Zurita's GitHub stats](https://github-readme-stats.vercel.app/api?username=elias-zurita&show_icons=true&theme=cobalt)
