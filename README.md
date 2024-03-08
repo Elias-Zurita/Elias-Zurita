@@ -2,7 +2,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/86257706/194675410-30b33fe3-446e-42c9-a313-8ed1ffb9d0ce.gif" width="300" height="300">
 
-## Languages and Tools :hammer_and_wrench:
+### Languages and Tools :hammer_and_wrench:
 
 <div class = 'lenguages'> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
@@ -41,7 +41,7 @@
 	
 <br>
   
-## Contact me 📫
+### Contact me 📫
 
 &nbsp;&nbsp;
   <a href="mailto:eliass.zurita@gmail.com"> 
@@ -52,7 +52,7 @@
 		<img title="Linkedin" alt="Linkedin" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="35" height="30"/>
 	</a>
 
-## My Portfolio :computer: 
+### My Portfolio :computer: 
   <a href="https://elias-zurita.github.io/" target="_blank">PORTFOLIO WEB :globe_with_meridians:</a>
   
 ![Elias-Zurita's GitHub stats](https://github-readme-stats.vercel.app/api?username=elias-zurita&show_icons=true&theme=cobalt)
