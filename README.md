@@ -54,5 +54,5 @@
 
 ### My Portfolio :computer: 
   <a href="https://elias-zurita.github.io/" target="_blank">PORTFOLIO WEB :globe_with_meridians:</a>
-  
-![Elias-Zurita's GitHub stats](https://github-readme-stats.vercel.app/api?username=elias-zurita&show_icons=true&theme=cobalt)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elias-zurita&langs_count=5&theme=cobalt&layout=compact)
