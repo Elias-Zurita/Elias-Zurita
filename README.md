@@ -43,16 +43,24 @@
   
 ### Contact me 📫
 
-&nbsp;&nbsp;
-  <a href="mailto:eliass.zurita@gmail.com"> 
-		<img title="Gmail" alt="Gmail" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width="38" height="28"/>
+<div>
+	<a href="https://github.com/Elias-Zurita" target="_blank">
+		<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 	</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/elias-zurita" target="_blank"> 
-		<img title="Linkedin" alt="Linkedin" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="35" height="30"/>
+	<a https="https://www.linkedin.com/in/elias-zurita" target="_blank">
+		<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 	</a>
+ 	<a https="mailto:eliass.zurita@gmail.com" target="_blank">
+		<img src=https://img.shields.io/badge/Gmail-%23d6492f.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+	</a>
+	<a https="https://wa.me/5491165599444?text="" target="_blank">
+		<img src=https://img.shields.io/badge/whatsap-%25D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white alt=gmail style="margin-bottom: 5px;" /
+	</a>
+</div>  
 
 ### My Portfolio :computer: 
-  <a href="https://elias-zurita.github.io/" target="_blank">PORTFOLIO WEB :globe_with_meridians:</a>
+  <a href="https://elias-zurita.github.io/" target="_blank">
+	<img alt="Static Badge" src="https://img.shields.io/badge/PORTFOLIO%20WEB-black?style=for-the-badge&logo=erpnext&logoColor=white&labelColor=black&color=%2340cfff">
+  </a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elias-zurita&langs_count=5&theme=cobalt&layout=compact)
