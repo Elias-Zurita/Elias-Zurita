@@ -36,7 +36,7 @@
 	<img title="Sass" alt="Sass" src="https://camo.githubusercontent.com/da79029ef5a44898077dfc91f19f8dff0546d76082556d5f22a4e209d8e5d90b/68747470733a2f2f7261776769742e636f6d2f736173732f736173732d736974652f6d61696e2f736f757263652f6173736574732f696d672f6c6f676f732f6c6f676f2e737667" width="40" height="40" />
 </a>
 <a href="https://getbootstrap.com/">
-	<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="45" height="37" />
+	<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="45" height="37" alt="Bootstrap" />
 </a>
 	
 <br>
