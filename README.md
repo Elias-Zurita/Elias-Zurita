@@ -1,5 +1,5 @@
 <h1 align="center"><img src='https://i.pinimg.com/originals/72/f5/d8/72f5d83a6fcb756a1d0a5d296eeca0d5.gif' width="35" height="35"><a href="https://elias-zurita.github.io/"><img src="https://Elias-Zurita.github.io/img/icono.png" width="40" height="50"/></a> <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&duration=4000&pause=1000&color=5153F7&background=FFAF1600&width=475&lines=Hello,+my+is+Elias+and+I+am+a+Web+Developer+🚀" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&duration=4000&pause=1000&color=5153F7&background=FFAF1600&width=575&lines=Hello,+my+name+is+Elias+and+I+am+a+Web+Developer+🚀" alt="Typing SVG" /></a>
 </div> </h1>
 
 <img align="right" src="https://user-images.githubusercontent.com/86257706/194675410-30b33fe3-446e-42c9-a313-8ed1ffb9d0ce.gif" width="300" height="300">
