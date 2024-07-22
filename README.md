@@ -2,8 +2,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&duration=4000&pause=1000&color=5153F7&background=FFAF1600&width=475&lines=Hello,+my+is+Elias+and+I+am+a+Web+Developer+🚀" alt="Typing SVG" /></a>
 </div> </h1>
 
-Hello, my name is Elias and I am a Web Developer
-
 <img align="right" src="https://user-images.githubusercontent.com/86257706/194675410-30b33fe3-446e-42c9-a313-8ed1ffb9d0ce.gif" width="300" height="300">
 
 ### Languages and Tools :hammer_and_wrench:
