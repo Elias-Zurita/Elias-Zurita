@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&duration=4000&pause=1000&color=000000&background=FFAF1600&width=575&lines=Hello,+my+name+is+Elias+and+I+am+a+Web+Developer+🚀" alt="Typing SVG" /></a>
 </div> </h1>
 
-<img align="right" src="https://user-images.githubusercontent.com/86257706/194675410-30b33fe3-446e-42c9-a313-8ed1ffb9d0ce.gif" width="300" height="300">
+<img align="right" src="https://devwebabhi.github.io/Images/hero-me-dark.gif" width="350" height="350">
 
 ### Languages and Tools :hammer_and_wrench:
 
