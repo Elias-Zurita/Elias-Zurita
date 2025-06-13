@@ -1,6 +1,9 @@
-<h1 align="center"><img src='https://i.pinimg.com/originals/72/f5/d8/72f5d83a6fcb756a1d0a5d296eeca0d5.gif' width="35" height="35"><a href="https://elias-zurita.github.io/"><img src="https://Elias-Zurita.github.io/img/icono.png" width="40" height="50"/></a> <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&duration=4000&pause=1000&color=000000&background=FFAF1600&width=575&lines=Hello,+my+name+is+Elias+and+I+am+a+Web+Developer+🚀" alt="Typing SVG" /></a>
-</div> </h1>
+<h1 align="center"><img src='https://i.pinimg.com/originals/72/f5/d8/72f5d83a6fcb756a1d0a5d296eeca0d5.gif' width="35" height="35">
+	<a href="https://elias-zurita.github.io/"><img src="https://Elias-Zurita.github.io/img/icono.png" width="40" height="50"/></a> 
+	<div align="center">
+	    <img src="https://readme-typing-svg.demolab.com/?lines=Hello%20my%20name%20is%20Elias;I'm%20a%20Full%20Stack%20Web%20Developer;Currently%20working%20as%20QA%20Automation%20Tester&center=true&width=600&height=45&color=dc143c&vCenter=true&pause=500&size=25" />
+	</div> 
+</h1>
 
 <img align="right" src="https://devwebabhi.github.io/Images/hero-me-dark.gif" width="350" height="350">
 
@@ -26,7 +29,7 @@
 	<img title="Express Js" alt="Express Js" src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" width="40" height="40" />
 </a>
 <a href="https://www.mysql.com/"> 
-	<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="40" height="40" />
+	<img title="MySQL" alt="MySQL" src="https://www.svgrepo.com/show/354099/mysql.svg" width="40" height="40" />
 </a>
 <a href="">
 	<img alt="GitHub" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />	
