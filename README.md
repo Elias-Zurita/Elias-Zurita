@@ -20,6 +20,9 @@
 	<img title="CSS" alt="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="40" height="40" />
 </a>
 <a href="https://nodejs.org/en/">
+	<img title="Java" alt="Java" src="https://img.icons8.com/color/512/java-coffee-cup-logo.png" width="50" height="50" />
+</a>	
+<a href="https://nodejs.org/en/">
 	<img title="NodeJS" alt="NodeJS" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" width="40" height="40" />
 </a>
 <a href="https://reactjs.org/"> 
