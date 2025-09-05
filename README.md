@@ -28,8 +28,11 @@
 <a href="https://reactjs.org/"> 
 	<img title="ReactJS" alt="ReactJS" src="https://github.com/hussainweb/hussainweb/raw/main/icons/react.png" width="40" height="40" />
 </a>
+<a href="https://gradle.org/"> 
+	<img title="Gradle" alt="Gradle" src="https://e7.pngegg.com/pngimages/508/156/png-clipart-gradle-computer-icons-transparency-logo-scalable-graphics-share-to-mammal-text-thumbnail.png" width="40" height="40" />
+</a>
 <a href="https://expressjs.com/"> 
-	<img title="Express Js" alt="Express Js" src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" width="40" height="40" />
+	<img title="Express" alt="Express JS" src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo-thumbnail.png" width="40" height="40" />
 </a>
 <a href="https://www.mysql.com/"> 
 	<img title="MySQL" alt="MySQL" src="https://www.svgrepo.com/show/354099/mysql.svg" width="40" height="40" />
